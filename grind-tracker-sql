@@ -1,0 +1,3 @@
+create_table.sql → all the CREATE TABLE + INSERT statements
+
+queries.sql → all your SELECT statements
